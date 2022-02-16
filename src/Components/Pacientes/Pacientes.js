@@ -70,7 +70,7 @@ export default class Pacientes extends Component {
     return (
       <Fragment>
      
-          <h1 className="h1">Admin de Pacientes</h1>
+          <h1 className="h1">Administrar Pacientes</h1>
 
           <button
             className="btn btn-primary mt-3 mb-2"
